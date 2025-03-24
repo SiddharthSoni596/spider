@@ -1,10 +1,10 @@
 import json
 
-input_file = 'input.json'  # your original JSON file
-output_file = 'filtered_finance.json'  # output file
+input_file = '/Users/siddharthsoni/PycharmProjects/spider/evaluation_examples/eval_college_2_v1/train_spider.json'  # your original JSON file
+output_file = 'filtered_college_2.json'  # output file
 
 # Target db_id
-target_db_id = 'finance'
+target_db_id = 'college_2'
 
 # Load the input JSON
 with open(input_file, 'r') as f:
