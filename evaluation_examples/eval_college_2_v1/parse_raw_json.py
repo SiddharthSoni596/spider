@@ -6,7 +6,6 @@ import argparse
 from process_sql import get_sql
 
 
-#TODO: update the following dirs
 sql_path = 'filtered_college_2.json'
 db_dir = '/Users/siddharthsoni/PycharmProjects/spider/database'
 output_file = 'dev_new.json'
