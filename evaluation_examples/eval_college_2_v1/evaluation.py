@@ -864,7 +864,7 @@ if __name__ == "__main__":
     pred = "/Users/siddharthsoni/PycharmProjects/spider/evaluation_examples/eval_college_2_v1/pred_college_2.sql"
     db_dir = "/Users/siddharthsoni/PycharmProjects/spider/database"
     table = "/Users/siddharthsoni/PycharmProjects/spider/evaluation_examples/eval_college_2_v1/new_table.json"
-    etype = "all"
+    etype = "exec"
     # python evaluation.py --gold [gold file] --pred [predicted file] --etype [evaluation type] --db [database dir] --table [table file]
 
     # arguments:
